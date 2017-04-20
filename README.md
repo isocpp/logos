@@ -1,7 +1,7 @@
 # C++ Logo
 Logo/badge for the C++ programming language
 
-![C++ Logo](https://raw.githubusercontent.com/jwkratz/cpp_logo/master/cpp_logo_small.png)
+<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++ Logo" width="306" height="344" />
 
 Created by [Jeremy Kratz](https://jeremykratz.com/)
 
